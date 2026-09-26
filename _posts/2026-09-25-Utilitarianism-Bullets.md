@@ -8,12 +8,13 @@ Trying to to outline/organize my enmity towards and understanding of utilitarian
 
 
 
-##
 
 
 
 
-##
+
+
+
 
 
 
@@ -35,6 +36,7 @@ Trying to to outline/organize my enmity towards and understanding of utilitarian
     - Invoke some esoteric argument of the form "Poetry, therefore, dying of malaria isn't bad".
     - Accidentally delete the critique-related paragraphs, and leave only the grand soliloquy about *just how much* they are in possession of the moral high ground???? 
         - ...Anscombe...[^2]
+---
 
 ## Reasons I find utilitarianism compelling, and why I'm cautious about those reasons
 
@@ -47,29 +49,15 @@ Trying to to outline/organize my enmity towards and understanding of utilitarian
     - Even trace amounts of Utilitarianism easily dissolve this issue. 
         - What is my take on Israel/Palestine? "Instead of arguing about various definitions of genocide, or the goodness or badness of Islam, or the relative merits of the IDF and Hamas, people should figure out which charities are best at alleviating the suffering of people caught in war, and donate what they can spare to those charities." 
         - You can even dress it up in fiery rhetoric: ""
-    - 
-
-
---- Footnotes? ---
-
-*** Footnote. maybe? ***
-
-___ underscores would be kinda redonkulous ___
-
-***
-
-
+    
 ---
-
-
-___
-
+{: data-content="🦶🎶"}
 
 
 
-[^1]At the time I felt pretty vomitish-in-mouth about all the people having an attitude that's best expressed by that one goshdang quote: "Art is meant to comfort the disturbed and disturb the comfortable". Bruh. This is an open house for an arts magnet program in Small City, CA, idk where u finding any uncomfortable people. Hiding behind one of the 18 charcoal frescoes?? Mingling with the congressional rep and his family???
+[^1]: At the time I felt pretty vomitish-in-mouth about all the people having an attitude that's best expressed by that one goshdang quote: "Art is meant to comfort the disturbed and disturb the comfortable". Bruh. This is an open house for an arts magnet program in Small City, CA, idk where u finding any uncomfortable people. Hiding behind one of the 18 charcoal frescoes?? Mingling with the congressional rep and his family???
 
-[^2] To be fair, perhaps I do not yet understand Anscombe's thinking. But in my defense, the people who *do* understand her thinking are literal clowns:
+[^2]: To be fair, perhaps I do not yet understand Anscombe's thinking. But in my defense, the people who *do* understand her thinking are literal clowns:
 
     bjorkiscool113: so it's *always* unnacceptable to murder, but this isn't a hard obligation or rule
     
