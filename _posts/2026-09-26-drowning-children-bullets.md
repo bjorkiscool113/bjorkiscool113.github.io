@@ -32,5 +32,11 @@ Outline:
     - Consult the genre success stories: 
         - *Tender is the flesh* / *Cadáver exquisito* 
         - *The Purge* too? idk if is good or is just popular
-        - 'The Lottery'. SOMEONE, *SOMEWHERE*, wrote about this story as it relates to below bullet point, too. 
+        - 'The Lottery'. SOMEONE, *SOMEWHERE*, wrote about this story as it relates to bullet point below and to the left, too. 
+        - Vandermeer *Annihilation*. I think I watched a movie of this??
+        - Amelia Gray: *Threats* or *Gutshot* or both
+        - This one is not really relevant or part of the genre or a success story, but: That 2-page story DFW wrote about the abortion
+        - *The Wicker Man* film or the Pinner novel *Ritual* or both
+        - Midsomnar (ew) or Curdle Creek, but probably not *both*...
+        - *Speech Sounds* and *Parable of the Sower*, maybe
     - that cliche about how if you render foreground details very realistically, blobbish background mountain ranges look more realistic
