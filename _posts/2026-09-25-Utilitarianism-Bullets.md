@@ -14,7 +14,7 @@ Ways in which I'm *not* an enemy of Utilitarianism
 - I feel +/- uncomplicatedly warm about lots of ideas/writers in/around EA. 
     - I get the impression that EA is relatively willing to Do Thing ~~instead of~~ in addition to hosting giant jousting matches of Thing-bickering on a rickety scaffold ten meta-levels high
     - Some of the EA bloggers seem to have kind and reasonable takes on certain issues that no one else is (read: no other professional thinkers are) capable of being kind and reasonable about
-- I feel like many of the critiques of Utilitarianism written by laypersons (and, come to think of it, the ones written by respected philosophers, too) fail to engage with *that which makes utilitarianism compelling™*, and instead do some or all of these things:
+- I feel like many of the critiques of Utilitarianism written by laypeople (and, come to think of it, the ones written by respected philosophers, too) fail to engage with *that which makes utilitarianism compelling™*, and instead do some or all of these things:
     - Assert that utilitarians fail understand: 
         - that some people like spicy food and BDSM
         - love
@@ -50,7 +50,7 @@ Reasons I feel enmity twd utilitarianism
 
 
 
-[^1]: At the time I felt pretty vomitish-in-mouth about all the people having an attitude that's best expressed by that one goshdang quote: "Art is meant to comfort the disturbed and disturb the comfortable". Bruh. This is an open house for an arts magnet program in Small City, CA, idk where u finding any uncomfortable people. Hiding behind one of the 18 charcoal frescoes?? Mingling with the congressional rep and his family???
+[^1]: At the time I felt pretty vomitish-in-mouth about all the people having an attitude that's best expressed by that one goshdang quote: "Art is meant to comfort the disturbed and disturb the comfortable". Bruh. This is an open house for an arts magnet program in Small City, CA, idk where u finding any of The Uncomfortable. Hiding behind one of the 18 charcoal frescoes?? Mingling with the congressional rep and his family???
 
 [^2]: To be fair, perhaps I do not yet understand Anscombe's thinking. But in my defense, the people who *do* understand her thinking are literal clowns:
 
