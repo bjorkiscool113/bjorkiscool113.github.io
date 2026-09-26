@@ -1,6 +1,3 @@
 entries:
-  - title: "om"
-    url: "/"
-
   - title: "posts"
     post_list: true 
