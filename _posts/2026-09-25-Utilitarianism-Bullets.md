@@ -1,15 +1,17 @@
 ---
 layout: post
-title: "Utilitarianism Bullets"
+title: "Utilitarianism Bullets (WIP)"
 date: 2026-09-25 00:00:00 -0000
-categories: utilitarianism
+categories: 
 ---
-
-
-
-# Utilitarianism Bullets (WIP)
-
 Trying to to outline/organize my enmity towards and understanding of utilitarianism (slash Singerism (slash Effective Altruism)). But also just trying to get my github pages looking the way i want it to. :/
+
+
+
+
+
+
+
 
 ## Ways in which I'm *not* an enemy of Utilitarianism
 - I'm more in favor of Singer-ist arguments than any family or friends or acquaintances I can think of in real life. When the teachers required us to make protest art in HS, I made a child drowning in a cup of coffee, and typed up some horrible statement encouraging people to donate to effective causes instead of buying coffee.¹
@@ -43,8 +45,11 @@ Trying to to outline/organize my enmity towards and understanding of utilitarian
     - 
 
 Footnotes:
+
 ¹ At the time I felt pretty vomitish-in-mouth about all the people having an attitude that's best expressed by that one goshdang quote: "Art is meant to comfort the disturbed and disturb the comfortable". Bruh. This is an open house for an arts magnet program in Small City, CA, idk where u finding any uncomfortable people. Hiding behind one of the 18 charcoal frescoes?? Mingling with the congressional rep and his family???
 
 ²To be fair, perhaps I do not yet understand Anscombe's thinking. But in my defense, the people who *do* understand her thinking are literal clowns:
+
     bjorkiscool113: so it's *always* unnacceptable to murder, but this isn't a hard obligation or rule
+    
     GoodluckGremlin: YES!
