@@ -1,7 +1,8 @@
 ---
-title: <Utilitarianism Bullets (WIP)>
 layout: post
-categories: notMusic
+title: "Utilitarianism Bullets"
+date: 2026-09-25 00:00:00 -0000
+categories: utilitarianism
 ---
 
 
