@@ -8,8 +8,6 @@ Trying to to outline/organize my enmity towards and understanding of utilitarian
 
 <br>
 
-<br>
-
 
 ## Ways in which I'm *not* an enemy of Utilitarianism
 - I'm more in favor of Singer-ist arguments than any family or friends or acquaintances I can think of in real life. When the teachers required us to make protest art in HS, I made a child drowning in a cup of coffee, and typed up some horrible statement encouraging people to donate to effective causes instead of buying coffee[^1].
