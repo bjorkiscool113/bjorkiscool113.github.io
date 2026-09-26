@@ -32,4 +32,5 @@ Outline:
     - Consult the genre success stories: 
         - *Tender is the flesh* / *Cadáver exquisito* 
         - *The Purge* too? idk if is good or is just popular
+        - 'The Lottery'. SOMEONE, *SOMEWHERE*, wrote about this story as it relates to below bullet point, too. 
     - that cliche about how if you render foreground details very realistically, blobbish background mountain ranges look more realistic
