@@ -21,4 +21,11 @@
       {% endfor %}
     {% endif %}
   </body>
+ <script>
+    if (new Date().getDay() === 5) {
+      document.addEventListener('DOMContentLoaded', function() {
+        document.body.innerHTML = '<h1 style="text-align:center;margin-top:20vh">Closed on Sundays — back Monday!</h1>';
+      });
+    }
+  </script>
 </html>

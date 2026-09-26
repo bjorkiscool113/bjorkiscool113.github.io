@@ -8,7 +8,12 @@ Trying to to outline/organize my enmity towards and understanding of utilitarian
 
 
 
+##
 
+
+
+
+##
 
 
 
