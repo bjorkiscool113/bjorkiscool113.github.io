@@ -28,3 +28,8 @@ Outline:
     - and be less *obviously-contrived-slash-redonkulous*, somehow? it's not obvious that this goal works well with the other three.
 
     
+    How do people make dystopian horror stories feel plausible?
+    - Consult the genre success stories: 
+        - *Tender is the flesh* / *Cadáver exquisito* 
+        - *The Purge* too? idk if is good or is just popular
+    - that cliche about how if you render foreground details very realistically, blobbish background mountain ranges look more realistic
