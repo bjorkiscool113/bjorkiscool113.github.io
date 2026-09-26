@@ -1,4 +1,13 @@
-## Drowned Children Bullets
+---
+layout: post
+title: "Drowned Children Bullets (WIP)"
+date: 2026-09-26 16:10:00 -0000
+categories: 
+---
+
+
+
+Outline:
 
 - In *Famine, Affluence, and Morality* or something, Peter Singer analogizes a (globally) rich person's choice to not donate to preventable disease treatment to a rich person choosing not to rescue a child drowning in a fountain because it would get the rich person's expensive clothes wet
 - This analogy is widely loved and it's universally acknowledged that it is apt and reasonable. :)
