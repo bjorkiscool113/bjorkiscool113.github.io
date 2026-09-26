@@ -1,0 +1,6 @@
+entries:
+  - title "hóme"
+    url: "/"
+
+  - title "pôsts"
+    post_list: true 
