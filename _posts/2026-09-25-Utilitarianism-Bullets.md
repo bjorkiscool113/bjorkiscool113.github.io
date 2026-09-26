@@ -4,18 +4,13 @@ title: "Utilitarianism Bullets (WIP)"
 date: 2026-09-25 00:00:00 -0000
 categories: 
 ---
-Trying to to outline/organize my enmity towards and understanding of utilitarianism (slash Singerism (slash Effective Altruism)). But also just trying to get my github pages looking the way i want it to. :/
+Trying to to outline/organize my enmity towards and understanding of utilitarianism (slash Singerism (slash Effective Altruism)).
 
+<br>
 
+<br>
 
-
-
-
-
-
-
-
-
+<br>
 
 
 
@@ -36,6 +31,7 @@ Trying to to outline/organize my enmity towards and understanding of utilitarian
     - Invoke some esoteric argument of the form "Poetry, therefore, dying of malaria isn't bad".
     - Accidentally delete the critique-related paragraphs, and leave only the grand soliloquy about *just how much* they are in possession of the moral high ground???? 
         - ...Anscombe...[^2]
+
 ---
 
 ## Reasons I find utilitarianism compelling, and why I'm cautious about those reasons
