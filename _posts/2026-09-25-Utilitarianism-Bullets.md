@@ -19,16 +19,16 @@ Trying to to outline/organize my enmity towards and understanding of utilitarian
     - I get the impression that EA is relatively willing to Do Thing ~~instead of~~ in addition to hosting giant jousting matches of Thing-bickering on a rickety scaffold ten meta-levels high
     - Some of the EA bloggers seem to have kind and reasonable takes on certain issues that no one else is (read: no other professional thinkers are) capable of being kind and reasonable about
 - I feel like many of the critiques of Utilitarianism written by laypersons (and, come to think of it, the ones written by respected philosophers, too) fail to engage with What Makes Utilitarianism Compelling, and instead do some or all of these things:
-    a. Assert that utilitarians fail understand: 
+    - Assert that utilitarians fail understand: 
         - that some people like spicy food and BDSM
         - love
         - that it's difficult/impossible to quantify some/all preferences
         - that no one wants to be wire-headed
         - the importance and general niceness of art, music, poetry
-    b. Interpret a specific definition of Utilitarianism in a particular way, arrive at an off-putting conclusion, then conclude that finding Utilitarianism compelling is mass genocide, actually. (cf philosophers yapping about Utilitarian World Exploders)
-    c. Assert some God-given right to not be Utilitarian
-    d. Invoke some esoteric argument of the form "Poetry, therefore, dying of malaria isn't bad".
-    e. Accidentally delete the critique-related paragraphs, and leave only the grand soliloquy about *just how much* they are in possession of the moral high ground???? 
+    - Interpret a specific definition of Utilitarianism in a particular way, arrive at an off-putting conclusion, then conclude that finding Utilitarianism compelling is mass genocide, actually. (cf philosophers yapping about Utilitarian World Exploders)
+    - Assert some God-given right to not be Utilitarian
+    - Invoke some esoteric argument of the form "Poetry, therefore, dying of malaria isn't bad".
+    - Accidentally delete the critique-related paragraphs, and leave only the grand soliloquy about *just how much* they are in possession of the moral high ground???? 
         - ...Anscombe...²
 
 ## Reasons I find utilitarianism compelling, and why I'm cautious about those reasons
