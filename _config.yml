@@ -28,7 +28,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 theme_config:
-  date_format: "%A, %B %-d, %Y
+  date_format: "%A, %B %-d, %Y"
 
 # Build settings
 remote_theme: riggraz/no-style-please
