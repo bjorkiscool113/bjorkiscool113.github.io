@@ -1,6 +1,6 @@
 entries:
-  - title "om"
+  - title: "om"
     url: "/"
 
-  - title "posts"
+  - title: "posts"
     post_list: true 
