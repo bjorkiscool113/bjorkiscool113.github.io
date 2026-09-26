@@ -14,7 +14,7 @@ Ways in which I'm *not* an enemy of Utilitarianism
 - I feel +/- uncomplicatedly warm about lots of ideas/writers in/around EA. 
     - I get the impression that EA is relatively willing to Do Thing ~~instead of~~ in addition to hosting giant jousting matches of Thing-bickering on a rickety scaffold ten meta-levels high
     - Some of the EA bloggers seem to have kind and reasonable takes on certain issues that no one else is (read: no other professional thinkers are) capable of being kind and reasonable about
-- I feel like many of the critiques of Utilitarianism written by laypersons (and, come to think of it, the ones written by respected philosophers, too) fail to engage with *that which makes utilitarianism compelling*, and instead do some or all of these things:
+- I feel like many of the critiques of Utilitarianism written by laypersons (and, come to think of it, the ones written by respected philosophers, too) fail to engage with *that which makes utilitarianism compelling™*, and instead do some or all of these things:
     - Assert that utilitarians fail understand: 
         - that some people like spicy food and BDSM
         - love
