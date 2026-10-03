@@ -4,7 +4,7 @@
   <body a="{{ site.theme_config.appearance | default: "auto" }}">
 	  <main class="page-content" aria-label="Content">
       <div class="w">
-	<a href="/"> <img src="{{ '/assets/images/header.png' | relative_url }}" alt="Stamped seal with a stylized shrug emoticon in the center, surrounded by six stars and lyrics from a song: 'I don't understand, and I'll never understand, but I'll try to understand; there's nothing else I can do.' The lyrics are from Fiona Apple's song 'Red, Red, Red.' " /> </a>
+	<a href="/"> <img src="{{ '/assets/images/header.png' | relative_url }}"  class="ioda" alt="Stamped seal with a stylized shrug emoticon in the center, surrounded by six stars and lyrics from a song: 'I don't understand, and I'll never understand, but I'll try to understand; there's nothing else I can do.' The lyrics are from Fiona Apple's song 'Red, Red, Red.' " /> </a>
 
         {{ content }}
 	<br> <br> <br> <p>-----------</p><p>email me! broferea@gmail.com</p>
@@ -22,7 +22,7 @@
     {% endif %}
   </body>
  <script>
-	 if (new Date().getDay() > -1) {
+	 if (new Date().getDay() === 0) {
       document.addEventListener('DOMContentLoaded', function() {
 	      document.body.innerHTML = '<h1 style="text-align:center;margin-top:20vh">Closed for maintenance — back soon!</h1> <br> <br> <h2 style="text-align:center">we apologize for the inconvenience :(</h2>';
 	document.title = "bjorkiscool113 - temporarily closed for maintenance";

@@ -11,10 +11,10 @@ Outline:
 
 - In *Famine, Affluence, and Morality* or something, Peter Singer analogizes a (globally) rich person's choice to not donate to preventable disease treatment to a rich person choosing not to rescue a child drowning in a fountain because it would get the rich person's expensive clothes wet
 - This analogy is widely loved and it's universally acknowledged that it is apt and reasonable. :)
-- IMO, though, Singer's analogy minimizes the scale of the problems (a. children dying (roughly: tens of thousands of them per day) of preventable disease and b. the affluent spending vast sums of money for their own comfort) and it conceals the strangeness of the problems.
+- IMO, though, Singer's analogy minimizes the scale of the problems (a. children dying (roughly: ten thousand of them per day) of preventable disease and b. the affluent spending vast sums of money for their own comfort) and it conceals the strangeness of the problems.
     - In this way he's able to present a surprising and simple conclusion -- look at that affluent person! Is it not *evil* for someone to let a child *drown* for the sake of their *clothes?* But we've all done it, so we're all evil.
     - But everyone sorta knows this is bullshit. The vibe is off. Singer comes off as a trickster more than a revolutionary. 
-    - One of the ways in which the problems are strange is that like. every1 be doing it. 
+    - One of the ways in which the problems are strange is that like. everyone be doing it. Normal things like *living in a house* or *owning objects you could live without* are implied to be kinda suspect, which is weird. 
 - A more accurate analogy *should* be something closer to a dystopian horror film than a morality-fable. It would:
     - frame it as a societal issue instead of an issue of personal evil,
         - e.g. everyone remembers the first time they drowned a child??
@@ -22,21 +22,24 @@ Outline:
     - more accurately represent the number of drowning children and the scale of the economy,
         - wall street, financial districts, the streets are snowed in with drowned children
         - when passenger planes take off, they carpet-bomb the highways with drowned children
-        - Safeways and walmarts need to ...deal with... 50 drowned children each day. (Perhaps the industrial trash machines that exist in real life could be repurposed? they already seem a bit evil and mysterious)
+        - Safeways and walmarts need to ...deal with... 25-50 drowned children each day. (Perhaps the industrial trash machines that exist in real life could be repurposed? they already seem a bit evil and mysterious)
     - try to reflect some of the more controversial aspects, 
         - parents drowning their own children! holding their mouths closed over the garden hose! throwing them into the deep ends of local ponds! it's traditional! they don't *usually* drown!
+        - smth smth population ethics, e.g. perhaps in some countries it's *best* that children drown; there weren't enough resources for them to live good lives anyway 
     - and be less *obviously-contrived-slash-redonkulous*, somehow? it's not obvious that this goal works well with the other three.
 
+---
     
-    How do people make dystopian horror stories feel plausible?
-    - Consult the genre success stories: 
-        - *Tender is the flesh* / *Cadáver exquisito* 
-        - *The Purge* too? idk if is good or is just popular
-        - 'The Lottery'. SOMEONE, *SOMEWHERE*, wrote about this story as it relates to bullet point below and to the left, too. 
-        - Vandermeer *Annihilation*. I think I watched a movie of this??
-        - Amelia Gray: *Threats* or *Gutshot* or both
-        - This one is not really relevant or part of the genre or a success story, but: That 2-page story DFW wrote about the abortion
-        - *The Wicker Man* film or the Pinner novel *Ritual* or both
-        - Midsomnar (ew) or Curdle Creek, but probably not *both*...
-        - *Speech Sounds* and *Parable of the Sower*, maybe
-    - that cliche about how if you render foreground details very realistically, blobbish background mountain ranges look more realistic
+How do people make dystopian horror stories feel plausible?
+- Consult the genre success stories: 
+    - *Tender is the flesh* / *Cadáver exquisito* 
+    - *The Purge* too? idk if is good or is just popular
+    - 'The Lottery'. SOMEONE, *SOMEWHERE*, wrote about this story as it relates to bullet point below and to the left, too. 
+    - Vandermeer *Annihilation*. I think I watched a movie of this??
+    - Amelia Gray: *Threats* or *Gutshot* or both
+    - This one is not really relevant or part of the genre or a success story, but: That 2-page story DFW wrote about the abortion
+    - *The Wicker Man* film or the Pinner novel *Ritual* or both
+    - Midsomnar (ew) or Curdle Creek, but probably not *both*...
+    - *Speech Sounds* and *Parable of the Sower*, maybe
+    - *The Painted Bird* is as more a counterexample than anything else, really; it's disjointed and surreal and lots of people wrote to the author saying in essence "there's no way the war could've been *that* bad". He did the opposite of what we're after, he made true events seem fictional! 
+- that cliche about how if you render foreground details very realistically, blobbish background mountain ranges seem more realistic, too
