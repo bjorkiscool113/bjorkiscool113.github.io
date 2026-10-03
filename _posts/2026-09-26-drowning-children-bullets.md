@@ -19,6 +19,7 @@ Outline:
     - frame it as a societal issue instead of an issue of personal evil,
         - e.g. everyone remembers the first time they drowned a child??
             - walk home after making a deposit at the bank, find the kitchen sink overflowing, with someone else's child's legs sticking out
+    - (except of course for those good neurotic folk who when buying spaghetti-os vividly imagine a week of a child's life)
     - more accurately represent the number of drowning children and the scale of the economy,
         - wall street, financial districts, the streets are snowed in with drowned children
         - when passenger planes take off, they carpet-bomb the highways with drowned children
