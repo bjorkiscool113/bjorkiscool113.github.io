@@ -7,7 +7,9 @@ categories:
 
 
 
-Outline:
+# Outline:
+## second
+### third
 
 - In *Famine, Affluence, and Morality* or something, Peter Singer analogizes a (globally) rich person's choice to not donate to preventable disease treatment to a rich person choosing not to rescue a child drowning in a fountain because it would get the rich person's expensive clothes wet
 - This analogy is widely loved and it's universally acknowledged that it is apt and reasonable. :)
@@ -44,3 +46,11 @@ How do people make dystopian horror stories feel plausible?
     - *Speech Sounds* and *Parable of the Sower*, maybe
     - *The Painted Bird* is as more a counterexample than anything else, really; it's disjointed and surreal and lots of people wrote to the author saying in essence "there's no way the war could've been *that* bad". He did the opposite of what we're after, he made true events seem fictional! 
 - that cliche about how if you render foreground details very realistically, blobbish background mountain ranges seem more realistic, too
+
+
+#### Character and Themes
+
+    1. After that I basically stopped being at all charitable. etc.
+    2. (An example of this is that as a child, I showed some talent at ... etc.)
+    3. narrator is basically solipsistic, but this in some sense is the quality that lets em continue to care about such an intractable problem 
+    4. 
