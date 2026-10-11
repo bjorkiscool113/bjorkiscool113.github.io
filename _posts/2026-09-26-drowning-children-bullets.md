@@ -1,56 +1,51 @@
 ---
 layout: post
-title: "Drowned Children Bullets (WIP)"
-date: 2026-09-26 16:10:00 -0000
+title: "Drowned Children"
+date: 2026-10-10 16:10:00 -0000
 categories: 
 ---
+[content note: death, sometimes pretty graphic]
 
+Drowned children began to appear, imperceptibly, at first, and in plausible locations such as lakes and swimming pools, but eventually the actuaries and big-city homicide detectives caught on, and two months later, so did everyone else, when they started to show up in increasingly unlikely spots: lying face-down in a parking lot puddle, half-submerged in shallow ponds that hadn't existed the day before, tumbling out of an inexplicably flooded microwave oven. 
 
+All at once, everyone realized that most towns had a story like this. In my town, for example, the first drowned child was found curled up in the plastic water tank of a popular new food truck.
 
-# Outline:
-## second
-### third
+In the weeks after the news broke, no one discussed much else. People compared notes, came up with theories, and every day I heard of a new eerie detail. During one of their church-basement meetings the members of the local A.A. chapter determined, by phoning up some of the other chapters, that the drowned children were almost always black. A knitting club decided to take a road trip, driving up and down the state and asking in each little town, "Does anyone *know* the child? Was the body ever identified?" No one ever knew the child, and none of the bodies had been identified. Eventually it came out that a good fifth of the drowned children were actually adults. (I'm sure similar revelations were being discussed on the internet, and probably at a much faster rate, too. But at this time in my life, I prided myself on never spending any time on the internet, so I missed all of that.)
 
-- In *Famine, Affluence, and Morality* or something, Peter Singer analogizes a (globally) rich person's choice to not donate to preventable disease treatment to a rich person choosing not to rescue a child drowning in a fountain because it would get the rich person's expensive clothes wet
-- This analogy is widely loved and it's universally acknowledged that it is apt and reasonable. :)
-- IMO, though, Singer's analogy minimizes the scale of the problems (a. children dying (roughly: ten thousand of them per day) of preventable disease and b. the affluent spending vast sums of money for their own comfort) and it conceals the strangeness of the problems.
-    - In this way he's able to present a surprising and simple conclusion -- look at that affluent person! Is it not *evil* for someone to let a child *drown* for the sake of their *clothes?* But we've all done it, so we're all evil.
-    - But everyone sorta knows this is bullshit. The vibe is off. Singer comes off as a trickster more than a revolutionary. 
-    - One of the ways in which the problems are strange is that like. everyone be doing it. Normal things like *living in a house* or *owning objects you could live without* are implied to be kinda suspect, which is weird. 
-- A more accurate analogy *should* be something closer to a dystopian horror film than a morality-fable. It would:
-    - frame it as a societal issue instead of an issue of personal evil,
-        - e.g. everyone remembers the first time they drowned a child??
-            - walk home after making a deposit at the bank, find the kitchen sink overflowing, with someone else's child's legs sticking out
-    - (except of course for those good neurotic folk who when buying spaghetti-os vividly imagine a week of a child's life)
-    - more accurately represent the number of drowning children and the scale of the economy,
-        - wall street, financial districts, the streets are snowed in with drowned children
-        - when passenger planes take off, they carpet-bomb the highways with drowned children
-        - Safeways and walmarts need to ...deal with... 25-50 drowned children each day. (Perhaps the industrial trash machines that exist in real life could be repurposed? they already seem a bit evil and mysterious)
-    - try to reflect some of the more controversial aspects, 
-        - parents drowning their own children! holding their mouths closed over the garden hose! throwing them into the deep ends of local ponds! it's traditional! they don't *usually* drown!
-        - smth smth population ethics, e.g. perhaps in some countries it's *best* that children drown; there weren't enough resources for them to live good lives anyway 
-    - and be less *obviously-contrived-slash-redonkulous*, somehow? it's not obvious that this goal works well with the other three.
+Once the drowned children became public knowledge, the epidemiologists and demographers and statisticians were able to start collecting qualitative data; they could ask vast swaths of the public questions like "If you have witnessed any bizarre drownings recently, where were you, and what were you doing?" without the conspiracy nuts raising too much of a fuss. (Besides, the conspiracy nuts were *busy*. Every so often you'd see a ridiculous poster stapled to all the town's telephone poles. "Doesn't the map of drowned children look *suspiciously* like the map of median income by county?" the posters would whisper. Or, sometimes, they'd draw vague connections to reports of missing children on the other side of the world.)
 
----
-    
-How do people make dystopian horror stories feel plausible?
-- Consult the genre success stories: 
-    - *Tender is the flesh* / *Cadáver exquisito* 
-    - *The Purge* too? idk if is good or is just popular
-    - 'The Lottery'. SOMEONE, *SOMEWHERE*, wrote about this story as it relates to bullet point below and to the left, too. 
-    - Vandermeer *Annihilation*. I think I watched a movie of this??
-    - Amelia Gray: *Threats* or *Gutshot* or both
-    - This one is not really relevant or part of the genre or a success story, but: That 2-page story DFW wrote about the abortion
-    - *The Wicker Man* film or the Pinner novel *Ritual* or both
-    - Midsomnar (ew) or Curdle Creek, but probably not *both*...
-    - *Speech Sounds* and *Parable of the Sower*, maybe
-    - *The Painted Bird* is as more a counterexample than anything else, really; it's disjointed and surreal and lots of people wrote to the author saying in essence "there's no way the war could've been *that* bad". He did the opposite of what we're after, he made true events seem fictional! 
-- that cliche about how if you render foreground details very realistically, blobbish background mountain ranges seem more realistic, too
+After another two months, the epidemiologists and demographers and statisticians came back with the results of their studies: every time a certain amount of money was spent, a drowned child would appear. They weren't sure *just* how much money, exactly; estimates ranged from 900,000 to 1,300,000 USD. The reaction to this was what you'd expect. Those g.d. elites, always ruining everything. Child murder, now. What couldn't they get away with? Most people were skeptical, of course. You'd overhear conversations in cafes: "If a drowned child's supposed to show up whenever someone spends a  million dollars, how come Wall Street isn't snowed in with drowned children? I don't believe a *word* of it." (The answer, we'd learn, was that Wall Street invested in cisterns. Whole office floors replaced with graph-paper grids of giant rubber water containers.) 
 
+For a while, though, almost no one had heard about the most important result of the studies: the epidemiologists and demographers and statisticians all agreed that the Number was rapidly decreasing. It was expected to hit 100,000 sometime around the end of the next year. Estimates beyond that were tentative, but most believed the Number would eventually fall below 10,000. Lower, maybe.  
 
-#### Character and Themes
+The falling of the Number became harder to ignore as the years passed. People would finish paying off a loan and head out to a nice dinner, but as soon as they sat down, distressed waiters would show everyone out. A machine had broken down in the kitchen, they'd say. Cruise ships became unpopular; whenever they left a harbor, dozens of small children would wash up on shore over the next few days. 
 
-    1. After that I basically stopped being at all charitable. etc.
-    2. (An example of this is that as a child, I showed some talent at ... etc.)
-    3. narrator is basically solipsistic, but this in some sense is the quality that lets em continue to care about such an intractable problem 
-    4. 
+In this way the drowned children stopped being a morbid but basically fascinating topic in the national conversation; they instead became something more personal. Almost everyone knew that if they weren't *already*, they'd soon be responsible for a drowned child, and soon after that, many more; bickering about it recreationally now seemed insensitive. People would discuss it with their families, sometimes, but for the most part, everyone adjusted to it on their own. Waiting for the bus or standing in line at the checkout counter, people were shockingly quiet. It wasn't uncommon to see someone going through the day silently crying, not embarrassed about it and not even really bothering to pull themselves together, barely seeming to *notice* their tears, just blinking their way through as they brusquely pulled apart stuck shopping carts or muttered their way through phone trees on speakerphone.
+
+[break]
+
+If my description of this all so far has seemed sparse and abstract, if I've made much mention of the doings of "people" without having described even one thing done by one specific person, I'm sorry. My memory doesn't work too well for those times before everything started to change very quickly. (Besides, my friends say that I'm autistic, and that I'll never quite be able to get things across right. Possibly this is true.) I have a general picture of what happened, in the same way I have a general picture of the events that led up to the first world war, but I don't feel as if I was there. My memory regains its texture and garish colors right around the time the Number began to stabilize at roughly 4,000 and the first tentative reports came out linking the drowned children to a massive number of reports of disappeared children in the Congo, Nigeria, Malawi, Uganda... 
+
+The world started to feel ridiculous. Before, whenever the Safeway's cisterns had failed and the 5-gallon water jugs stored out in front of the store had filled one by one with small bodies, it had been sad enough, but we'd all assumed that the drowned children were in most senses not real. (They had just *appeared*! No one *knew* them! Perhaps they had really died, perhaps not, but at the *very* least, there was no brokenhearted family left behind to grieve for them!) When we learned that none of this was true, though, when we learned that the drowned children were real ordinary children who had once lived and babbled half-words and played pretend and chased after pigeons, almost nothing changed. The same vague activistic noises emanated from the same places they always had: reduce your consumption! unless you want to be a *murderer*, cut down on your unnecessary spending! The same jokes echoed around online, over and over again: late-stage capitalism, it's an orphan-crushing machine! 
+
+There were controversies, of course; eventually it came out that in the countries where the children were disappearing, parents would sometimes drown their own children. Holding the child's mouth over a water pump, sometimes, or tossing them into the deep end of a nearby pond. It was traditional, or something. The children almost always survived, apparently. People argued online about the implications, of course. ("These people are drowning their *own* children; what responsibility have *we* to bail them out?" And other such stupid things.) This felt like as much noise to me, though. I could not understand how we could be such frogs in a pot. If there was anything that could jolt us from our habitual stupor, wouldn't it be this?
+
+As a child, I'd try to scare myself, in order to stay awake longer than my brothers. (It was some sort of competition.) I'd imagine that if I let myself fall asleep, as soon as my eyes fluttered closed, there'd be a great cracking sound and I'd be teleported onto the edge of the cliff, like one of those climbers who climb with no rope. I'd start with a solid grip on the cliff-face, but I knew that because I was a child, I was weaker than the ropeless climbers, and I'd fall off eventually. I imagine this is what it is like to be ripped across the globe and start drowning. 
+
+I began to think seriously about my moral responsibilities. Short of killing myself, it seemed my only reasonable option was to eat as little as possible. I'd inherited my house, so there was no rent to pay. But whenever I bought a $5 snack at the grocery, I knew there was one chance in a thousand that next morning I'd flush the toilet and up into the bowl would gush that horrid pink water and I'd have to call in one of the people licensed to deal with that sort of thing. Or maybe over the night there would be an unseasonable rain, and in the morning I'd find my recycling bin with its lid dangling open, filled with rainwater, cardboard and crushed soda cans, a small child. (No one discusses it much in real life anymore, but you hear about this sort of thing pretty often, scrolling through one or the other social media. After all, to anyone who pays rent, it's usually going to happen every couple months, and you need to tell *someone*, so the stories accumulate online in designated forums.) Because I was terrified of being responsible for something like that, I really tried to avoid buying food, and eventually I figured out that each day I could get by on one of those $2.99 bags of chips, and two of grocery outlet's cheapest cans of beans. (And, well, I shouldn't, but often I spend another dollar or two on candy or soda or something.) Ten bucks, usually.
+
+This caused its own problems, of course; I'd have to steal fruit from neighborhood trees and look through trashcans to find the untouched take-out boxes. This was embarassing, and I was tired all the time, from lack of calories or protein or something, but it was in every way more manageable than the guilt I previously would've felt ten times a day for stealing three weeks from the life of a child in Mali or Laos or something. (I don't know quite how the math works, but I figure a one-in-a-thousand chance of taking someone's life is in some way similar to taking a thousandth of someone's life. Maybe this is unfair.) I got by on nothing but what I needed.  
+
+[break]
+
+I ran out of lightbulbs, eventually: one night, while I was sitting in what used to be the pantry, dicking around on my laptop and munching from the 99-cent box of Whoppers, the last lightbulb in the house flickered a bit while making some scary spitting noises, then burned out. At that point there was no good reason to be sitting in the pantry anymore, so I took my laptop and the whoppers to my pile of blankets in the middle of the living room floor. Lately I'd been reading about their lives, over there. I knew that I wouldn't be able to maintain my innocence forever, and I knew that eventually I'd hit the $4,000 mark and drown a child. 
+
+I figured that at least I could try to understand what that meant, "drown a child". To say that a life has ended seems so abstract. What were the minutes and hours of this person's life made of? Where did they live, and how did it feel to live there? What things would they have done, what things would have been done to them? I knew that these questions couldn't be answered *well* by reading books and googling around, but I thought it was better than nothing, that maybe it'd make a difference when the time came. So I sat in the dark room, wrapped in my puddle of blankets, glowing soft blue from the light of my laptop screen, reading.
+
+At midnight my phone buzzed; my phone plan had auto-renewed. (I had meant to cancel it, but there was an early termination fee, so I'd put it off.) I was so absorbed in my reading that the phone plan charge *barely* upset me; I was starting to think that maybe this could all become manageable. A minute later, I heard the kitchen sink; it was running, for some reason. 
+
+With my phone's flashlight I walked into the kitchen, and the sink was not was not only running. It was overflowing, and a shiny silver puddle was forming on the floorboards. There was a child in the sink, wearing shorts and a long yellow tee-shirt, tumbling slowly around, her wrist plugging the drain. I wasn't as panicked as I had expected to be, and I could still mostly function, but a few times each minute, I'd be hit with a huge choking sob and I'd need to gasp for breath. I had the most horrible headache, and it all felt so wrong. I had never seen this child before; now she was drowned in my sink. I did not understand at all. 
+
+You're meant to call the people who deal with this sort of thing immediately, but I couldn't; that seemed so cowardly. I shut off the tap, and because I didn't know if it was safe to touch her, I tried to use a pair of tongs to pull her wrist out of the drain. I felt sick; once her wrist was out, the drain made a disgusting gurgling noise and the water level sank so much faster than I'd expected, and soon the child was lying all crumpled at the bottom of my sink, surrounded by broken dirty dishes, with little soggy bits of food all over her clothes, a fork stuck in her hair, and the whole scene was so garish, lit by the harsh light of my phone's flashlight. I tried to remember what I had been reading, I tried to imagine what her life could have looked like, but I was distracted, because I never would've guessed that drowning victims *bled* so much, and I couldn't think at all. I felt all the more guilty, for having imagined that I could squeeze some meaning for myself out of a death that I caused. 
+
+All I could remember was a story from Malawi about the cell phone stands. There was scarcely any electricity infrastructure in rural Malawi, so people would cut a deal with shop owners in the local business center. They'd connect an extension cord to one of the shop's outlets, and they'd use that extension cord to power a stand on the sidewalk. From this stand they'd rent out time on cell phones, cell phone chargers, electric typewriters, photocopy machines. The child might have grown up and typed up a resume from a stand on a sunny sidewalk, and she might have then bought time on one of the cell phones to call about available jobs — such a normal thing! — but instead she was lying in my sink, dead, covered in little pieces of food I hadn't bothered to eat. Soon the people whose job it is to deal with this would arrive, and they'd get rid of her and clean my sink, and it would start all over again. It made no sense to me, I was so confused. The world seemed sad and stupid, and I could not understand why it was that way.
